@@ -1,0 +1,3 @@
+# Prestige Control uses only the Python standard library — there are no third-party
+# packages to install. This (intentionally empty) file tells Railway / Nixpacks to
+# build a Python environment.
