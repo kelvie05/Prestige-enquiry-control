@@ -69,7 +69,7 @@ LOAD_DEMO_DATA = os.environ.get("LOAD_DEMO_DATA", "0").strip().lower() in ("1", 
 # ---------------------------------------------------------------------------
 SEED_USERS = [
     # id,   name,          role,          colour,    username, password
-    ("u1", "Sarah Chen",  "Admin",       "#7A5BD0", "sarah", "sarah"),
+    ("u1", "Sam Mckelvie",  "Admin",       "#7A5BD0", "sam", "1234"),
     ("u2", "Mark Reilly", "Estimator",   "#3B72C9", "mark",  "mark"),
     ("u3", "Priya Patel", "Estimator",   "#2E8F66", "priya", "priya"),
     ("u4", "Dave Holt",   "Sales/Admin", "#E2622C", "dave",  "dave"),
